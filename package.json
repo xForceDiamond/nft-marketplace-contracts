@@ -18,7 +18,7 @@
     "@uniswap/v2-core": "^1.0.1",
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
     "eslint": "^7.32.0",
-    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-streamr-nodejs": "^2.0.1",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-promise": "^4.3.1",
